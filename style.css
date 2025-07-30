@@ -79,3 +79,8 @@ body{
     margin: 20px;
     background-color:rgb(58, 56, 56);
 }
+@media screen and (max-width:800px) {
+    .left, .main, .right{
+        width: 100%;
+    }
+}
